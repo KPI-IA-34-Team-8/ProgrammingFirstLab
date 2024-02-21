@@ -3,7 +3,10 @@
 ## Виконав(-ли): Сухоручкін Гліб і Янович Марія
 ---
 ## Хід роботи:
-1. 
+1. ![image](https://github.com/KPI-IA-34-Team-8/Programming_1stLab/assets/55922929/29215951-1532-4208-b134-a3921c9caed3)
+2. ![image](https://github.com/KPI-IA-34-Team-8/Programming_1stLab/assets/55922929/70d6ffb2-523c-42f3-8fca-b792d69deaef)
+3. ![image](https://github.com/KPI-IA-34-Team-8/Programming_1stLab/assets/55922929/3bb37dff-331e-4dfb-9693-b037eac5e2cd)
+
 ---
 ## Контрольні питання:
 ### 1. Що таке архітектура «клієнт-сервер»?
